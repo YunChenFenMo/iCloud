@@ -82,7 +82,7 @@ dns:
 proxy-providers:
   🧱翻墙社:
     type: http
-    url: "https://url.yuwell.cloudns.biz/ShadowsocksR.yml"
+    url: "https://url.yuwell.us.kg/ShadowsocksR.yml"
     path: ./Internet/ShadowsocksR.yml
     interval: 10800
     health-check:
@@ -91,7 +91,7 @@ proxy-providers:
       interval: 300
   🦠特洛伊:
     type: http
-    url: "https://url.yuwell.cloudns.biz/VMESS.yml"
+    url: "https://url.yuwell.us.kg/VMESS.yml"
     path: ./Internet/VMESS.yml
     interval: 10800
     health-check:
