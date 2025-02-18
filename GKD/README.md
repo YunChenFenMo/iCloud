@@ -45,6 +45,8 @@
 |梦念逍遥の订阅|1|梦念逍遥|由订阅内部规定链接更新|[MengNianxiaoyao](https://github.com/MengNianxiaoyao/gkd-subscription/tree/main)|[链接地址](https://raw.gitmirror.com/MengNianxiaoyao/gkd-subscription/main/dist/gkd.json5)|停止维护|
 |甘霖的GKD订阅|233|ganlinte|由订阅内部规定链接更新|[ganlinte](https://github.com/ganlinte/GKD-subscription/tree/main)|[链接地址](https://raw.gitmirror.com/GKD-subscription/main/dist/ganlin_gkd.json5)|仍在维护|
 |Jamison Leo的GKD订阅|1025|Jamison Leo|由订阅内部规定链接更新|[Jamison Leo](https://github.com/JamisonLeo/GKD-subscription)|[链接地址](https://raw.gitmirror.com/JamisonLeo/GKD-subscription/main/subscription.json)|停止维护|
+|九千院的GKD订阅|717|jiuqianyuan|从导入链接更新|[jiuqianyuan](https://github.com/jiuqianyuan/GKD-subscription)|[链接地址](https://raw.gitmirror.com/jiuqianyuan/GKD-subscription/main/gkd.json5)|停止维护|
+|Mrlc的GKD订阅|2|Mrlc|从导入链接更新|[Mrlc](https://github.com/Mrlc/GKD-subscription)|[链接地址](https://raw.gitmirror.com/Mrlc/GKD-subscription/main/gkd.json5)|仍在维护|
 
 ### 注意
 
