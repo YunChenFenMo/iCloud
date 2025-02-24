@@ -1,12 +1,12 @@
-! Title: AdRules i叚娤.倖鍢 DNS List
+! Title: AdRules 叚娤.倖鍢 DNS List
 ! Homepage: https://i叚娤.倖鍢.net.cn
 ! Powerd by i叚娤.倖鍢
 ! Expires: irregularly (update frequency)
 ! Description: 苦事不宣，乐事不扬，闲事不管！
 ! ------------------------------------
-! Version: 01.21.01
-! Update Date: 2025-01-21
-! Total lines: 507
+! Version: 02.24
+! Update Date: 2025-02-24
+! Total lines: 520
 
 # Google 黑名单 5
 ||google.com^
@@ -15,7 +15,7 @@
 ||google.*^
 ||google*.*^
 
-# 晴雅がく山道 黑名单 502
+# 晴雅がく山道 黑名单 515
 ||adtrack.e.kuaishou.com^
 ||az4-upload.ksapisrv.com^
 ||gdfp.gifshow.com^
@@ -85,7 +85,6 @@
 ||feedback-c.zijieapi.com^
 ||ad.zijieapi.com^
 ||ads.zijieapi.com^
-||ecom5-normal-lq.ecombdapi.com^
 ||gecko3-lq.zijieapi.com^
 ||frontier100-toutiao-hl.fqnovel.com^
 ||rtlog5-applog-lq.fqnovel.com^
@@ -418,8 +417,8 @@
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
 ||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
 ||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
-|| default.cn.sz.wagbridge.ad.alibabacorp.com^
-|| default.cn.wagbridge.ad.alibabacorp.com^
+||default.cn.sz.wagbridge.ad.alibabacorp.com^
+||default.cn.wagbridge.ad.alibabacorp.com^
 ||df.tanx.com^
 ||ef-dongfeng.tanx.com^
 ||ossgw.alicdn.com^
@@ -518,3 +517,17 @@
 ||diagnosis.ad.xiaomi.com^
 ||*.ads.heytapmobi.com^
 ||ad.qq.com^
+||ads5-normal-lf.zijieapi.com^
+||wtradv.market.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||ads.cup.com.cn^
+||adsfile.bssdlbig.kugou.com^
+||ads-img-bak.xhscdn.com^
+||adsdkapi.dxys.pro^
+||mads.meituan.com^
+||ads-sdk-api.ranfenghd.com^
+||c.etoolads.cn^
+||ads-acc.qqbrowser.qq.com^
+||adsfilebssdlbig.tx.kugou.com^
+||optimus-ads.amap.com^
+||mesu.apple.com^
