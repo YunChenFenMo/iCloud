@@ -4,9 +4,9 @@
 ! Expires: irregularly (update frequency)
 ! Description: 苦事不宣，乐事不扬，闲事不管！
 ! ------------------------------------
-! Version: 02.24
-! Update Date: 2025-02-24
-! Total lines: 520
+! Version: 03.02
+! Update Date: 2025-03-02
+! Total lines: 522
 
 # Google 黑名单 5
 ||google.com^
@@ -15,7 +15,7 @@
 ||google.*^
 ||google*.*^
 
-# 晴雅がく山道 黑名单 515
+# 晴雅がく山道 黑名单 517
 ||adtrack.e.kuaishou.com^
 ||az4-upload.ksapisrv.com^
 ||gdfp.gifshow.com^
@@ -75,6 +75,8 @@
 ||ads3-normal.zijieapi.com^
 ||ads5-normal.zijieapi.com^
 ||ads5-normal-hl.zijieapi.com^
+||tnc3-alisc1.zijieapi.com^
+||lf-cdn-tos.bytescm.com^
 ||gromore.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao.com^
