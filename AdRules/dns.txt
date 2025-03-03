@@ -6,7 +6,7 @@
 ! ------------------------------------
 ! Version: 03.02
 ! Update Date: 2025-03-02
-! Total lines: 522
+! Total lines: 521
 
 # Google 黑名单 5
 ||google.com^
@@ -15,7 +15,7 @@
 ||google.*^
 ||google*.*^
 
-# 晴雅がく山道 黑名单 517
+# 晴雅がく山道 黑名单 516
 ||adtrack.e.kuaishou.com^
 ||az4-upload.ksapisrv.com^
 ||gdfp.gifshow.com^
