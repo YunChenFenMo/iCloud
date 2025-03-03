@@ -4,8 +4,8 @@
 ! Expires: irregularly (update frequency)
 ! Description: 苦事不宣，乐事不扬，闲事不管！
 ! ------------------------------------
-! Version: 03.02
-! Update Date: 2025-03-02
+! Version: 03.03
+! Update Date: 2025-03-03
 ! Total lines: 521
 
 # Google 黑名单 5
@@ -92,7 +92,6 @@
 ||rtlog5-applog-lq.fqnovel.com^
 ||reading-lq.snssdk.com^
 ||polaris.zijieapi.com^
-||mon.zijieapi.com^
 ||log.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||tnc3-bjlgy.bytedance.com^
