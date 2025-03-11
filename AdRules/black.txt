@@ -6,7 +6,6 @@
 ! ------------------------------------
 ! Version: 03.11
 ! Update Date: 2025-03-11
-! Total lines: 1273
 
 # Google 黑名单 5
 ||google.com^
