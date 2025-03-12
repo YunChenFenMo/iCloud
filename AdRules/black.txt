@@ -1,12 +1,12 @@
-! Title: AdRules i叚娤.倖鍢 BLACK List
+! Title: AdRules i叚娤.倖鍢 DNS List
 ! Homepage: https://i叚娤.倖鍢.net.cn
 ! Powerd by i叚娤.倖鍢
 ! Expires: irregularly (update frequency)
 ! Description: 苦事不宣，乐事不扬，闲事不管！
 ! ------------------------------------
-! Version: 03.11
-! Update Date: 2025-03-11
-! Total lines: 1274
+! Version: 03.12
+! Update Date: 2025-03-12
+! Total lines: 1276
 
 # Google 黑名单 5
 ||google.com^
@@ -533,9 +533,10 @@
 ||optimus-ads.amap.com^
 ||mesu.apple.com^
 
-# 秋風がく山道 黑名单 752
+# 秋風がく山道 黑名单 755
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
+||1500026601.vodplayer.wxamedia.com^
 ||8le8le.com^
 ||a0.app.xiaomi.com^
 ||aaid.umeng.com^
@@ -1161,6 +1162,7 @@
 ||tdsdk.cpatrk.net^
 ||tdsdk.xdrig.com^
 ||tencent-dtv.m.cn.miaozhen.com^
+||terms-drcn.platform.dbankcloud.cn^
 ||test.ad.xiaomi.com^
 ||test.e.ad.xiaomi.com^
 ||tj.b.qq.com^
