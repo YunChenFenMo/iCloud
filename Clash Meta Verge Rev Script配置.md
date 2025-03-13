@@ -135,6 +135,7 @@ const rules = [
   "DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🌐 节点选择", // Google Play下载服务
   "DOMAIN-SUFFIX,github.io,🌐 节点选择", // Github Pages
   "DOMAIN,v2rayse.com,🌐 节点选择", // V2rayse节点工具
+  "DOMAIN-SUFFIX,coodesker.com,🛑 全球拦截", // 酷呆桌面
   // Loyalsoldier 规则集
   "RULE-SET,applications,🎯 全球直连",
   "RULE-SET,private,🎯 全球直连",
