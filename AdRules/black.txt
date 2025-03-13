@@ -16,10 +16,6 @@
 ||google*.*^
 
 # 晴雅がく山道 黑名单 524
-! Description: 反馈群538268498
-! Homepage: http://rssv.cn/adguard/
-! Title: 晴雅广告拦截规则重置版支持IOS🐧538268498
-! Version: 1.1.17
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.jomoxc.com^
