@@ -1,6 +1,6 @@
 // 国内DNS服务器
 const domesticNameservers = [
-  "https://dns.alidns.com/dns-query", // 阿里云公共DNS
+  "https://dns.alidns.com/dns-query", // 阿里公共DNS
   "https://doh.pub/dns-query", // 腾讯DNSPod
   "https://doh.360.cn/dns-query", // 360安全DNS
 ];
@@ -32,7 +32,7 @@ const dnsConfig = {
     // 微信快速登录检测失败
     "localhost.work.weixin.qq.com"
   ],
-  "default-nameserver": ["119.29.29.29", "223.5.5.5", "208.67.222.222", "8.8.8.8"],
+  "default-nameserver": ["119.29.29.29", "223.5.5.5", "1.2.4.8", "1.1.1.1", "208.67.222.222", "8.8.8.8"],
   "nameserver": [...domesticNameservers],
   "proxy-server-nameserver": [...domesticNameservers],
   "nameserver-policy": {
