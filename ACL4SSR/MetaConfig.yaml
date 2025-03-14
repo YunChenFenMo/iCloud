@@ -53,11 +53,10 @@ dns:
   respect-rules: true
   enhanced-mode: fake-ip
   fake-ip-filter:
-    - "*"
-    - "*.lan"
-    - "*.local"
-    - "*.msftconnecttest.com"
-    - "*.msftncsi.com"
+    - "+.lan"
+    - "+.local"
+    - "+.msftconnecttest.com"
+    - "+.msftncsi.com"
     - "localhost.ptlogin2.qq.com"
     - "localhost.sec.qq.com"
     - "localhost.work.weixin.qq.com"
