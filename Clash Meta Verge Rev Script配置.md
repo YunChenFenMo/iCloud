@@ -32,7 +32,7 @@ const dnsConfig = {
     // 微信快速登录检测失败
     "localhost.work.weixin.qq.com"
   ],
-  "default-nameserver": ["223.5.5.5", "119.29.29.29", "1.1.1.1", "8.8.8.8"],
+  "default-nameserver": ["1.2.4.8", "223.5.5.5", "119.29.29.29", "1.1.1.1", "8.8.8.8", "208.67.222.222"],
   "nameserver": [...domesticNameservers],
   "proxy-server-nameserver": [...domesticNameservers],
   "nameserver-policy": {
@@ -134,7 +134,6 @@ const rules = [
   "DOMAIN-SUFFIX,gstatic.com,🌐 节点选择", // Google静态资源
   "DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🌐 节点选择", // Google Play下载服务
   "DOMAIN-SUFFIX,github.io,🌐 节点选择", // Github Pages
-  "DOMAIN,v2rayse.com,🌐 节点选择", // V2rayse节点工具
   "DOMAIN-SUFFIX,coodesker.com,🛑 全球拦截", // 酷呆桌面
   // Loyalsoldier 规则集
   "RULE-SET,applications,🎯 全球直连",
