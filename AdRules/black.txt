@@ -16,9 +16,12 @@
 ||google*.*^
 
 # 晴雅がく山道 黑名单 534
+|adstats.tencentmusic.com^
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.jomoxc.com^
+||*.juicyads.me^
+||*.voiceads.cn^
 ||*/snscosdownload/*/reserved/*$app=com.tencent.mm
 ||*adintl.cn^
 ||*googleads*^
@@ -55,7 +58,7 @@
 ||ad-rs6-bjmt5406.idcyz.hb1.kwaidc.com^
 ||ad-rs6-bjmt5409.idcyz.hb1.kwaidc.com^
 ||ad-sdk-config.youdao.com^
-||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ^
+||ad-sh-sz-zb.wagbridge.tanx.alimama.com.gds.alibabadns.com ^
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
 ||ad.12306.cn^
 ||ad.cyapi.cn^
@@ -79,6 +82,7 @@
 ||admin-app.edifier.com^
 ||adreq.vivo.com.cn^
 ||ads*.papegames.com^
+||ads-*.xhscdn.com^
 ||ads-acc.qqbrowser.qq.com^
 ||ads-config.unityads.unity3d.com^
 ||ads-drcn.platform.hihonorcloud.com^
@@ -86,8 +90,10 @@
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-sdk-api.ranfenghd.com^
 ||ads.cup.com.cn^
+||ads.exoclick.com^
 ||ads.game.iqiyi.com^
 ||ads.morefreegame.com^
+||ads.yieldmo.com^
 ||ads.zijieapi.com^
 ||ads3-normal-lq.zijieapi.com^
 ||ads3-normal.zijieapi.com^
@@ -102,8 +108,10 @@
 ||adsfile.bssdlbig.kugou.com^
 ||adsfilebssdlbig.tx.kugou.com^
 ||adsfs.heytapimage.com^
+||adshows.21cn.com^
 ||adsmind.gdtimg.com^
 ||adsmind.ugdtimg.com^
+||adstatis.99jiasu.com^
 ||adstrategy.biz.weibo.com^
 ||adtrack.e.kuaishou.com^
 ||advert.tadu.com^
@@ -199,9 +207,9 @@
 ||data.ab.qq.com^
 ||data.flurry.com^
 ||datk.anythinktech.com^
-||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
+||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
 ||default.cn.sz.wagbridge.ad.alibabacorp.com^
-||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
+||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
 ||default.cn.wagbridge.ad.alibabacorp.com^
 ||df.tanx.com^
 ||diagnosis.ad.xiaomi.com^
@@ -283,6 +291,7 @@
 ||klink.volceapplog.com^
 ||kyy-dl.dzhread.cn^
 ||lalabaos1026.top^
+||leads.baidu.com^
 ||lens.zhihu.com^
 ||lf-cdn-tos.bytescm.com^
 ||lf26-sf-be-pack-sign.pglstatp-toutiao.com^
@@ -409,6 +418,7 @@
 ||sdkreport.e.qq.com^
 ||sdktmp.hubcloud.com.cn^
 ||securemetrics.apple.com^
+||securepubads.g.doubleclick.net^
 ||services.xiangji.qq.com^
 ||sf3-be-pack.pglstatp-toutiao.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
