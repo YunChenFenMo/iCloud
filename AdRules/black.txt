@@ -4,9 +4,9 @@
 ! Expires: irregularly (update frequency)
 ! Description: 苦事不宣，乐事不扬，闲事不管！
 ! ------------------------------------
-! Version: 03.12
-! Update Date: 2025-03-12
-! Total lines: 1284
+! Version: 03.15
+! Update Date: 2025-03-15
+! Total lines: 1294
 
 # Google 黑名单 5
 ||google.com^
@@ -15,7 +15,7 @@
 ||google.*^
 ||google*.*^
 
-# 晴雅がく山道 黑名单 524
+# 晴雅がく山道 黑名单 534
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.jomoxc.com^
