@@ -1,6 +1,6 @@
 // 国内DNS服务器
 const domesticNameservers = [
-  "https://dns.alidns.com/dns-query", // 阿里云公共DNS
+  "https://dns.alidns.com/dns-query", // 阿里公共DNS
   "https://doh.pub/dns-query", // 腾讯DNSPod
   "https://doh.360.cn/dns-query", // 360安全DNS
 ];
@@ -33,8 +33,8 @@ const dnsConfig = {
     "localhost.work.weixin.qq.com"
   ],
   "default-nameserver": ["119.29.29.29", "223.5.5.5", "1.2.4.8", "1.1.1.1", "208.67.222.222", "8.8.8.8"],
-  "nameserver": [...domesticNameservers],
-  "proxy-server-nameserver": [...domesticNameservers],
+  "nameserver": [...domesticNameservers, ...foreignNameservers],
+  "proxy-server-nameserver": [...domesticNameservers, ...foreignNameservers],
   "nameserver-policy": {
     "geosite:private,cn,geolocation-cn": domesticNameservers,
     "geosite:google,youtube,telegram,gfw,geolocation-!cn": foreignNameservers
@@ -135,6 +135,8 @@ const rules = [
   "DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🌐 节点选择", // Google Play下载服务
   "DOMAIN-SUFFIX,github.io,🌐 节点选择", // Github Pages
   "DOMAIN-SUFFIX,coodesker.com,🛑 全球拦截", // 酷呆桌面
+  "DOMAIN-SUFFIX,adobe.io,🛑 全球拦截", // Adobe.io
+  "DOMAIN-SUFFIX,adobe.com,🛑 全球拦截", // Adobe.com
   // Loyalsoldier 规则集
   "RULE-SET,applications,🎯 全球直连",
   "RULE-SET,private,🎯 全球直连",
