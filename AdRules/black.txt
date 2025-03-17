@@ -1,4 +1,4 @@
-! Title: AdRules i叚娤.倖鍢 DNS List
+! Title: AdRules i叚娤.倖鍢 Black List
 ! Homepage: https://i叚娤.倖鍢.net.cn
 ! Powerd by i叚娤.倖鍢
 ! Expires: irregularly (update frequency)
@@ -8,12 +8,13 @@
 ! Update Date: 2025-03-17
 ! Total lines: 1301
 
-# Google 黑名单 5
+# i叚娤.倖鍢 黑名单 5
 ||google.com^
 ||google.com.*^
 ||google*.com.*^
 ||google.*^
 ||google*.*^
+||adobe.*^
 
 # 晴雅がく山道 黑名单 536
 ||adstats.tencentmusic.com^
