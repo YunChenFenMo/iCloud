@@ -6,15 +6,17 @@
 ! ------------------------------------
 ! Version: 03.17
 ! Update Date: 2025-03-17
-! Total lines: 1302
+! Total lines: 1310
 
-# i叚娤.倖鍢 黑名单 6
+# i叚娤.倖鍢 黑名单 8
 ||google.com^
 ||google.com.*^
 ||google*.com.*^
 ||google.*^
 ||google*.*^
 ||adobe.*^
+||pcmanager.microsoft.com^
+||applicationinsights.azure.cn^
 
 # 晴雅がく山道 黑名单 536
 ||adstats.tencentmusic.com^
