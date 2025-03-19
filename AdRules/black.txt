@@ -8,7 +8,8 @@
 ! Update Date: 2025-03-19
 ! Total lines: 1316
 
-# i叚娤.倖鍢 黑名单 20
+# i叚娤.倖鍢 名单 20
+# 白名单
 @@||doh.pub^
 @@||dot.pub^
 @@||doh.360.cn^
@@ -21,6 +22,8 @@
 @@||*.cloudns.biz^
 @@||*.dedyn.io^
 @@||*.us.kg^
+
+# 黑名单
 ||google.com^
 ||google.com.*^
 ||google*.com.*^
