@@ -6,9 +6,21 @@
 ! ------------------------------------
 ! Version: 03.19
 ! Update Date: 2025-03-19
-! Total lines: 1304
+! Total lines: 1316
 
-# i叚娤.倖鍢 黑名单 8
+# i叚娤.倖鍢 黑名单 20
+@@||doh.pub^
+@@||dot.pub^
+@@||doh.360.cn^
+@@||dot.360.cn^
+@@||dns.alidns.com^
+@@||doh.onedns.net^
+@@||do.onedns.net^
+@@||*.com.mp^
+@@||*.netlib.re^
+@@||*.cloudns.biz^
+@@||*.dedyn.io^
+@@||*.us.kg^
 ||google.com^
 ||google.com.*^
 ||google*.com.*^
