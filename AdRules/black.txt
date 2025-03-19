@@ -6,7 +6,7 @@
 ! ------------------------------------
 ! Version: 03.19
 ! Update Date: 2025-03-19
-! Total lines: 1310
+! Total lines: 1304
 
 # i叚娤.倖鍢 黑名单 8
 ||google.com^
