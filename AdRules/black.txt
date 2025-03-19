@@ -9,6 +9,7 @@
 ! Total lines: 1316
 
 # i叚娤.倖鍢 名单 20
+
 # 白名单
 @@||doh.pub^
 @@||dot.pub^
@@ -16,7 +17,7 @@
 @@||dot.360.cn^
 @@||dns.alidns.com^
 @@||doh.onedns.net^
-@@||do.onedns.net^
+@@||dot.onedns.net^
 @@||*.com.mp^
 @@||*.netlib.re^
 @@||*.cloudns.biz^
