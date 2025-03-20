@@ -4,11 +4,11 @@
 ! Expires: irregularly (update frequency)
 ! Description: 苦事不宣，乐事不扬，闲事不管！
 ! ------------------------------------
-! Version: 03.19
-! Update Date: 2025-03-19
-! Total lines: 1316
+! Version: 03.20
+! Update Date: 2025-03-20
+! Total lines: 1317
 
-# i叚娤.倖鍢 名单 20
+# i叚娤.倖鍢 名单 21
 
 # 白名单
 @@||doh.pub^
@@ -31,6 +31,7 @@
 ||google.*^
 ||google*.*^
 ||adobe.*^
+||coodesker.com^
 ||pcmanager.microsoft.com^
 ||applicationinsights.azure.cn^
 
