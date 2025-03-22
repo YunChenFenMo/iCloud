@@ -4,9 +4,9 @@
 ! Expires: irregularly (update frequency)
 ! Description: 苦事不宣，乐事不扬，闲事不管！
 ! ------------------------------------
-! Version: 03.21
-! Update Date: 2025-03-21
-! Total lines: 1321
+! Version: 03.22
+! Update Date: 2025-03-22
+! Total lines: 1322
 
 # i叚娤.倖鍢 名单 21
 
@@ -35,7 +35,7 @@
 ||pcmanager.microsoft.com^
 ||applicationinsights.azure.cn^
 
-# 晴雅がく山道 黑名单 540
+# 晴雅がく山道 黑名单 541
 ||adstats.tencentmusic.com^
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
