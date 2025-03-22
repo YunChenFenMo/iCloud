@@ -576,6 +576,7 @@
 ||test.y.qq.com^
 ||landing.gdtimg.com^
 ||signaltower.gdt.qq.com^
+||w1.kskwai.com^
 
 # 秋風がく山道 黑名单 760
 ||1010pic.com^
