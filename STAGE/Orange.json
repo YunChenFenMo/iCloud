@@ -1,5 +1,5 @@
 {
-"spider": "https://itaopu.ugreen.cloudns.biz/iCloud/STAGE/Orange.jar;md5;dda5ab42b722f13761900308a6caff89",
+"spider": "https://fastly.ugreen.cloudns.biz/iCloud/STAGE/Orange.jar;md5;dda5ab42b722f13761900308a6caff89",
 "wallpaper": "https://bing.img.run/uhd.php",
 "warningText": "资源来自网络，所有内容仅供学习使用，禁止用于违法及商业用途，请勿相信视频中广告，请勿付费，谨防诈骗",
 
@@ -61,7 +61,7 @@
 {"key":"注","name":"⚠️请勿付费 谨防诈骗","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 ],
 
-"logo":"https://itaopu.ugreen.cloudns.biz/iCloud/STAGE/Cartoon_Police_Animation.gif",
+"logo":"https://fastly.ugreen.cloudns.biz/iCloud/STAGE/Cartoon_Police_Animation.gif",
 "lives":[
 {"name": "樂玩公社㊙️·IPv4","type": 0,"url": "https://tvbox.yuwell.cloudns.biz/txt?url=https://live.5iclub.dedyn.io/IPTV.m3u","playerType": 1,"epg": "https://112114.5iclub.cloudns.biz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "樂玩公社㊙️·IPv6","type": 0,"url": "https://tvbox.yuwell.cloudns.biz/txt?url=https://live.ugreen.dedyn.io/IPTV.m3u","playerType": 1,"epg": "https://112114.5iclub.cloudns.biz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
